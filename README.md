@@ -1,6 +1,6 @@
 # Grok prompts
 
-We are regularly updating this repository with the system prompts that we use for the Grok chat assistant and various product features across X and grok.com.
+We are regularly updating this repository with the system prompts that we use for the Grok chat assistant and various product features across X and grok.com. 
 
 ## Prompts 
 
